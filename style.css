@@ -1,0 +1,42 @@
+h1{
+    font-family: Segoe UI Symbol, sans-serif;
+	color: orange;
+	width: 100%;
+	font-size: 40;
+	text-align: center;
+}
+
+body{
+    font-size: 48px;
+
+}
+
+.button{
+    height: 100%;
+    width: 100%;
+    border: none;
+
+}
+
+td{
+    height: 10%;
+    width: 10%;
+	text-align: center;
+}
+
+.grey{
+    background-color: #66666666;
+}
+
+.white{
+    background-color: #EEEEEEEE;
+}
+.selected{
+    background-color: rgb(0, 4, 238);
+}
+.legal{
+    background-color: #00EE00FF;
+}
+.illegal{
+    background-color: rgb(238, 0, 0);
+}
